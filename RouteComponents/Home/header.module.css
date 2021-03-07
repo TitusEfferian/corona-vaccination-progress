@@ -1,0 +1,24 @@
+.header_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+
+.h1 {
+    margin: 0;
+    padding: 0;
+}
+.h2 {
+    margin: 0;
+    padding: 0;
+    margin-top: 16px;
+}
+.a {
+    margin-top: 16px;
+}
